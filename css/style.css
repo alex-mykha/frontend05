@@ -1,0 +1,180 @@
+.container{
+  max-width: 1270px;
+  margin:0 auto;
+  background: #fff;
+  padding: 96px 50px 0 50px ;
+}
+
+body{
+background-repeat: no-repeat;
+background-size: cover;
+background: url("/amg/pink-flowers.webp"), #B4B4B4;
+padding-bottom: 24px;
+}
+
+.header_foto_sunset{
+  display: block;
+  width: 100%;
+}
+.header_foto{
+  padding: 14px 13px;
+  border: 1px solid #000000;
+}
+
+.header_title{
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+color: #A11414;
+margin-bottom: 46px;
+}
+
+.header_title .header_title_iner{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+text-transform: uppercase;
+color: #A11414;
+}
+
+.heading{
+  padding-top: 59px;
+
+}
+
+.wraper{
+  display: flex;
+
+}
+
+.wraper_text>h2{
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+  color: #a11414;
+  margin-bottom: 15px;
+}
+
+.wraper_text>p{
+  text-indent: 35px;
+  font-family: 'Roboto';
+  font-weight: 400;
+font-size: 16px;
+color: #1d1b1b;
+max-width: 1000px;
+}
+
+.wraper_text_iner{
+  display: block;
+  text-indent: 0;
+  margin-top: 5px;
+}
+
+.wraper_menu{
+border-radius: 2px 15px;
+padding: 26px 88px 29px 29px ;
+background: #d7d7d7;
+}
+.wraper_menu_title{
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 16px;
+color: #000;
+margin-bottom: 24px;
+}
+
+.wraper_menu_list{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.wraper_menu_link{
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+}
+
+.active{
+  font-family: 'Roboto';
+font-weight: 700;
+font-size: 16px;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #a11414;
+}
+.about{
+padding-top: 31px;
+}
+
+.about_title{
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 24px;
+  color: #a11414;
+  margin-bottom: 15px;
+}
+
+.about_text{
+  text-indent: 35px;
+  font-family: 'Roboto';
+  font-weight: 400;
+font-size: 16px;
+color: #1d1b1b;
+max-width: 1168px;
+}
+
+.about_text_upercase{
+  text-transform: uppercase;
+}
+.about_text_iner{
+  color: #a11414;
+}
+.about_text_indent{
+  text-indent: 0px;
+  display: block;
+  margin-top: 5px;
+}
+
+.about_text_bottom{
+  text-indent: 35px;
+  font-family: 'Roboto';
+  font-weight: 400;
+font-size: 16px;
+color: #1d1b1b;
+max-width: 1168px;
+margin-top: 20px;
+}
+
+.about_text_indet_trough{
+  text-decoration: line-through;
+}
+
+.copyright{
+  text-align: center;
+  font-weight: 400;
+}
+
+footer{
+  padding: 42px 0 66px 0;
+  background-image: url("/amg/Rectangle\ 4.png") ;
+  background-repeat: no-repeat;
+  background-position: 0 40% ;
+}
+
+
+
+
+.copyright_text{
+font-family: 'Roboto';
+font-weight: 700;
+font-size: 16px;
+color: #403636;
+}

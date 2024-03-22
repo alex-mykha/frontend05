@@ -41,6 +41,7 @@ padding-top: 59px;
 }
 .wraper{
 display: flex;
+gap: 3px;
 }
 .wraper_text>h2{
 font-family: 'Roboto';

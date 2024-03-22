@@ -112,7 +112,6 @@ font-size: 16px;
 color: #1d1b1b;
 max-width: 1168px;
 }
-
 .about_text_upercase{
   text-transform: uppercase;
 }
@@ -124,7 +123,6 @@ max-width: 1168px;
   display: block;
   margin-top: 5px;
 }
-
 .about_text_bottom{
   text-indent: 35px;
   font-family: 'Roboto';

@@ -1,23 +1,22 @@
 .container{
-  max-width: 1270px;
-  margin:0 auto;
-  background: #fff;
-  padding: 96px 50px 0 50px ;
+max-width: 1270px;
+margin:0 auto;
+background: #fff;
+padding: 96px 50px 0 50px ;
 }
-
 body{
 background-repeat: no-repeat;
 background-size: cover;
-background: url("/amg/pink-flowers.webp"), #B4B4B4;
+background: url("img/pink-flowers.webp"), #B4B4B4;
 padding-bottom: 24px;
 }
 .header_foto_sunset{
-  display: block;
-  width: 100%;
+display: block;
+width: 100%;
 }
 .header_foto{
-  padding: 14px 13px;
-  border: 1px solid #000000;
+padding: 14px 13px;
+border: 1px solid #000000;
 }
 .header_title{
 font-family: 'Roboto';
@@ -38,10 +37,10 @@ text-transform: uppercase;
 color: #A11414;
 }
 .heading{
-  padding-top: 59px;
+padding-top: 59px;
 }
 .wraper{
-  display: flex;
+display: flex;
 }
 .wraper_text>h2{
 font-family: 'Roboto';
@@ -113,45 +112,38 @@ color: #1d1b1b;
 max-width: 1168px;
 }
 .about_text_upercase{
-  text-transform: uppercase;
+text-transform: uppercase;
 }
 .about_text_iner{
-  color: #a11414;
+color: #a11414;
 }
 .about_text_indent{
-  text-indent: 0px;
-  display: block;
-  margin-top: 5px;
+text-indent: 0px;
+display: block;
+margin-top: 5px;
 }
 .about_text_bottom{
-  text-indent: 35px;
-  font-family: 'Roboto';
-  font-weight: 400;
+text-indent: 35px;
+font-family: 'Roboto';
+font-weight: 400;
 font-size: 16px;
 color: #1d1b1b;
 max-width: 1168px;
 margin-top: 20px;
 }
-
 .about_text_indet_trough{
-  text-decoration: line-through;
+text-decoration: line-through;
 }
-
 .copyright{
-  text-align: center;
-  font-weight: 400;
+text-align: center;
+font-weight: 400;
 }
-
 footer{
-  padding: 42px 0 66px 0;
-  background-image: url("img/Rectangle\ 4.png") ;
-  background-repeat: no-repeat;
-  background-position: 0 40% ;
+padding: 42px 0 66px 0;
+background-image: url("img/Rectangle\ 4.png") ;
+background-repeat: no-repeat;
+background-position: 0 40% ;
 }
-
-
-
-
 .copyright_text{
 font-family: 'Roboto';
 font-weight: 700;

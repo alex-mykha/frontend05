@@ -7,7 +7,7 @@
   body{
   background-repeat: no-repeat;
   background-size: cover;
-  background: url("/img/pink-flowers.webp"), #B4B4B4;
+  background: url("../img/pink-flowers.webp"), #B4B4B4;
   padding-bottom: 1.5rem;
   }
   .header_foto_sunset{
@@ -39,13 +39,11 @@
   .heading{
   padding-top: 3.6875rem;
   }
-  .wraper{
-  }
   .wraper_text{
-    max-width: 68.75rem;
-    margin-right: 0.1875rem;
-    clear: both;
-    float: left;
+  max-width: 68.75rem;
+  margin-right: 0.1875rem;
+  clear: both;
+  float: left;
   }
   .wraper_text>h2{
   font-family: 'Roboto';
@@ -79,9 +77,6 @@
   font-size: 1rem;
   color: #000;
   margin-bottom: 1.5rem;
-  }
-  .wraper_menu_list{
-
   }
   .wraper_menu_link{
   font-family: 'Roboto';
@@ -145,7 +140,7 @@
   }
   footer{
   padding: 2.625rem 0 4.125rem 0;
-  background-image: url("/img/Rectangle\ 4.png") ;
+  background-image: url("../img/Rectangle\ 4.png") ;
   background-repeat: no-repeat;
   background-position: 0 40% ;
   }
@@ -156,6 +151,6 @@
   color: #403636;
   }
   .clear{
-    display: table;
-    clear: both;
+  display: table;
+  clear: both;
   }

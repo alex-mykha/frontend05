@@ -7,7 +7,7 @@ padding: 96px 50px 0 50px ;
 body{
 background-repeat: no-repeat;
 background-size: cover;
-background: url("/img/pink-flowers.webp"), #B4B4B4;
+background: url("../img/pink-flowers.webp"), #B4B4B4;
 padding-bottom: 24px;
 }
 .header_foto_sunset{
@@ -141,7 +141,7 @@ font-weight: 400;
 }
 footer{
 padding: 42px 0 66px 0;
-background-image: url("/img/Rectangle\ 4.png") ;
+background-image: url("../img/Rectangle\ 4.png") ;
 background-repeat: no-repeat;
 background-position: 0 40% ;
 }
